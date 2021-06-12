@@ -10,8 +10,8 @@
     </button>
     <ul class="link" :class="[{ hidden: !open }, { flex: open }]">
       <li><a href="#about">About</a></li>
-      <li><a href="#">Find Me</a></li>
-      <li><a href="#">Project</a></li>
+      <li><a href="#findMe">Find Me</a></li>
+      <li><a href="#project">Project</a></li>
     </ul>
   </div>
 </template>

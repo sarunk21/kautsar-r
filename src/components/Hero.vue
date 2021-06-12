@@ -11,7 +11,7 @@
       </div>
       <div class="mt-6 md:mt-12">
         <a href="#about" class="btn-about">About Me</a>
-        <a href="" class="btn-project ml-6">My Project</a>
+        <a href="#project" class="btn-project ml-6">My Project</a>
       </div>
     </div>
     <div class="col-span-12 md:col-span-6 order-1">

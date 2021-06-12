@@ -4,6 +4,7 @@
     <Hero />
     <About />
     <Contact />
+    <Project />
   </div>
 </template>
 
@@ -12,9 +13,10 @@ import Navbar from "./components/Navbar.vue";
 import Hero from "./components/Hero.vue";
 import About from "./components/About.vue";
 import Contact from "./components/Contact.vue";
+import Project from "./components/Project.vue";
 
 export default {
-  components: { Navbar, Hero, About, Contact },
+  components: { Navbar, Hero, About, Contact, Project },
 };
 </script>
 
