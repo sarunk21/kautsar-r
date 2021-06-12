@@ -9,9 +9,9 @@
       <i class="fa fa-bars"></i>
     </button>
     <ul class="link" :class="[{ hidden: !open }, { flex: open }]">
-      <li><a href="#">About</a></li>
+      <li><a href="#about">About</a></li>
+      <li><a href="#">Find Me</a></li>
       <li><a href="#">Project</a></li>
-      <li><a href="#">Contact</a></li>
     </ul>
   </div>
 </template>

@@ -3,6 +3,7 @@
     <Navbar />
     <Hero />
     <About />
+    <Contact />
   </div>
 </template>
 
@@ -10,13 +11,18 @@
 import Navbar from "./components/Navbar.vue";
 import Hero from "./components/Hero.vue";
 import About from "./components/About.vue";
+import Contact from "./components/Contact.vue";
 
 export default {
-  components: { Navbar, Hero, About },
+  components: { Navbar, Hero, About, Contact },
 };
 </script>
 
 <style>
+html {
+  scroll-behavior: smooth;
+}
+
 #app {
   @apply font-poppins;
 }

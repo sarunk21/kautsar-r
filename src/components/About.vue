@@ -1,7 +1,15 @@
 <template>
-  <div class="grid grid-cols-12 justify-between my-28">
+  <div class="grid grid-cols-12 justify-between my-28" id="about">
     <h1
-      class="col-span-12 text-5xl text-center mb-10 color-green font-semibold"
+      class="
+        col-span-12
+        text-3xl
+        md:text-5xl
+        text-center
+        mb-10
+        color-green
+        font-semibold
+      "
     >
       About
     </h1>
@@ -24,7 +32,7 @@
 }
 
 .frame {
-  height: 500px;
+  height: 400px;
 }
 
 @media (min-width: 768px) {

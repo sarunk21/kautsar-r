@@ -10,7 +10,7 @@
         </span>
       </div>
       <div class="mt-6 md:mt-12">
-        <a href="" class="btn-about">About Me</a>
+        <a href="#about" class="btn-about">About Me</a>
         <a href="" class="btn-project ml-6">My Project</a>
       </div>
     </div>
