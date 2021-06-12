@@ -37,18 +37,6 @@ export default {
 </script>
 
 <style scoped>
-.color-dark {
-  color: #211f20;
-}
-
-.color-green {
-  color: #4eb18d;
-}
-
-.color-brown {
-  color: #4b2c2f;
-}
-
 .btn {
   @apply px-4 py-2 border rounded-lg font-medium duration-200;
 }
