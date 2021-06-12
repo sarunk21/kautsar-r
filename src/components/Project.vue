@@ -71,7 +71,7 @@
       <a
         href="https://github.com/sarunk21"
         target="_blank"
-        class="text-2xl ml-auto btn-about"
+        class="text-lg md:text-2xl ml-auto btn-about"
         >Project Lainnya</a
       >
     </div>
